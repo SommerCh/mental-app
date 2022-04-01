@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4be46146.css",
+    "main.js": "/static/js/main.a4612822.js",
+    "static/js/787.9e77d474.chunk.js": "/static/js/787.9e77d474.chunk.js",
+    "static/media/confetti-4.gif": "/static/media/confetti-4.7c62a174e9af32ae4c49.gif",
+    "static/media/confetti.gif": "/static/media/confetti.c232a849801ab7bfd178.gif",
+    "static/media/gift.gif": "/static/media/gift.8687bbc280cf91858285.gif",
+    "static/media/medalje.gif": "/static/media/medalje.27c7fb27f6e046ca28be.gif",
+    "static/media/star.gif": "/static/media/star.4570a9153f1d9e78893d.gif",
+    "static/media/heavy.jpg": "/static/media/heavy.89a6d3c4c2d18bf7a125.jpg",
+    "static/media/miditation.jpg": "/static/media/miditation.ef0d3052b8a928db1a57.jpg",
+    "static/media/ked.png": "/static/media/ked.36836a7bca8a8b9e6c09.png",
+    "static/media/glad.png": "/static/media/glad.5b289c91efe5eba11c31.png",
+    "index.html": "/index.html",
+    "main.4be46146.css.map": "/static/css/main.4be46146.css.map",
+    "main.a4612822.js.map": "/static/js/main.a4612822.js.map",
+    "787.9e77d474.chunk.js.map": "/static/js/787.9e77d474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be46146.css",
+    "static/js/main.a4612822.js"
+  ]
+}
